@@ -2,9 +2,11 @@
 
 A machine learning project for classifying brain tumors from MRI images using both conventional ML models and deep neural networks.
 
-Classes of images: glioma, meningioma, notumour, and pituitary
+Classes of images: glioma, meningioma, notumour, and pituitary.
 
-Evaluation results are aggregated with results from previously train models with the same image size and random seed
+Evaluation results are aggregated with results from previously train models with the same image size and random seed.
+
+Data is automatically pulled from [kaggle](https://www.kaggle.com/datasets/deeppythonist/brain-tumor-mri-dataset).
 
 ## Installation
 
