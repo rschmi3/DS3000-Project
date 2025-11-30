@@ -1,0 +1,8 @@
+.venv-cuda/*
+.venv-rocm/*
+.direnv/*
+*__pycache__*
+*.pkl
+*.h5
+result
+*.tar.gz
